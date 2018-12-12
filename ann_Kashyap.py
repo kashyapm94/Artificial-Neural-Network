@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 16 21:58:35 2018
 
-@author: kashy
+@author: kashyap
 """
 
 # Classification template
